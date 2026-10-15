@@ -51,4 +51,4 @@ tasktracker-projeto/
 
 ## Autor
 
-[SEU NOME COMPLETO] — Bootcamp II — CEUB
+Luis Otavio Da Costa Britto — Bootcamp II — CEUB
